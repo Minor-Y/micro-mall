@@ -1,12 +1,20 @@
 
 # About
-此项目是 vue 2 + element-ui 构建的后台管理系统，数据都是从服务器实时获取的真实数据，具有真实的登陆、管理数据、权限验证、角色权限变更等功能。
+此项目是 vue 2 + element-ui 构建的后台管理系统，用于巩固学习vue2.0相关的知识点。所以为了使这个项目更加完整，项目中加入一个server服务，为前端提供数据来源，数据都是从服务器实时获取的真实数据，具有真实的登陆、管理数据、权限验证、角色权限变更等功能。  
+已实现登录、退出
+使用JWT权限控制、
+
 # 技术栈
 前端：vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui  
 服务端：node + express + mysql
+# 演示
+demo地址 http://www.minorhan.top  
+注意：
+
+admin：拥有最高权限，可以查看所有的页面和按钮；
 # 项目运行
 #克隆到本地  
-git clone https://github.com/bailicangdu/vue2-happyfri.git
+git clone https://github.com/Minor-Y/micro-mall.git
 
 #打开一个终端，进入到micro-mall目录安装依赖包  
 cd micro-mall
