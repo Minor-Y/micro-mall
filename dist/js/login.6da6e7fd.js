@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmicro_mall"]=self["webpackChunkmicro_mall"]||[]).push([[535],{7157:function(l,c){c["Z"]={defultUrl:"https://mock.apifox.cn/m1/1377856-0-default",localUrl:"http://121.4.124.242:3000"}}}]);
+//# sourceMappingURL=login.6da6e7fd.js.map
